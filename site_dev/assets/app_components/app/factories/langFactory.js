@@ -2,7 +2,6 @@
 	// factory to set/get actual language
 	app.factory('langFactory', function () {
 		return {
-
 			// by default lang is not set and HAS to be set when the app is launched
 			lang: null,
 
@@ -21,7 +20,6 @@
 			setLang: function (lang) {
 				this.lang = lang;
 			}
-
 		};
 	});
 })();
