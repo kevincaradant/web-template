@@ -1,0 +1,10 @@
+'use strict';
+
+describe('generalController', function () {
+	it('makes sure that true is true', function (done) {
+		// You can test various properties of your main controller here..
+		expect(true).toEqual(true);
+		done();
+	});
+});
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImdlbmVyYWxDb250cm9sbGVyLnNwZWMuanMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6Ijs7QUFBQSxTQUFTLG1CQUFULEVBQThCLFlBQVk7QUFDekMsSUFBRyw4QkFBSCxFQUFtQyxVQUFVLElBQVYsRUFBZ0I7O0FBRWxELFNBQU8sSUFBUCxFQUFhLE9BQWIsQ0FBcUIsSUFBckIsRUFGa0Q7QUFHbEQsU0FIa0Q7RUFBaEIsQ0FBbkMsQ0FEeUM7Q0FBWixDQUE5QiIsImZpbGUiOiJnZW5lcmFsQ29udHJvbGxlci5zcGVjLmpzIiwic291cmNlc0NvbnRlbnQiOlsiZGVzY3JpYmUoJ2dlbmVyYWxDb250cm9sbGVyJywgZnVuY3Rpb24gKCkge1xuXHRpdCgnbWFrZXMgc3VyZSB0aGF0IHRydWUgaXMgdHJ1ZScsIGZ1bmN0aW9uIChkb25lKSB7XG5cdFx0Ly8gWW91IGNhbiB0ZXN0IHZhcmlvdXMgcHJvcGVydGllcyBvZiB5b3VyIG1haW4gY29udHJvbGxlciBoZXJlLi5cblx0XHRleHBlY3QodHJ1ZSkudG9FcXVhbCh0cnVlKTtcblx0XHRkb25lKCk7XG5cdH0pO1xufSk7XG4iXSwic291cmNlUm9vdCI6Ii9zb3VyY2UvIn0=
